@@ -12,11 +12,11 @@ Develop a comprehensive Task Management application to manage daily tasks effici
 To set up the project locally, follow these steps:
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/task-management.git
+    git clone https://github.com/your-username/TaskManagement.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd task-management
+    cd TaskManagement
     ```
 3. Install dependencies:
     ```sh
