@@ -5,7 +5,7 @@ Develop a comprehensive Task Management application to manage daily tasks effici
 
 ## Table of Contents
 - Installation
-- Features
+- Functionalities
 - Contributing
 
 ## Installation
@@ -16,7 +16,7 @@ To set up the project locally, follow these steps:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd TaskManagement
+    cd task-management
     ```
 3. Install dependencies:
     ```sh
@@ -26,6 +26,12 @@ To set up the project locally, follow these steps:
     ```sh
     npm start
     ```
+
+## Functionalities
+1. Adding Tasks
+2. Deleting Tasks
+3. Marking Tasks as Completed
+
     
 ## Contributing
 Guidelines for contributing to the project:
