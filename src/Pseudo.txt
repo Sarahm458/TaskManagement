@@ -1,0 +1,9 @@
+Components:
+Task Input
+Task List
+Task Item
+
+functionalities:
+Adding Tasks: Implement functionality to add new tasks to the list.
+Deleting Tasks: Implement functionality to delete tasks from the list.
+Marking Tasks as Completed: Add a checkbox to mark tasks as completed.
